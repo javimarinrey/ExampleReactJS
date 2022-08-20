@@ -5,8 +5,8 @@ https://create-react-app.dev/
 yarn create react-app my-app --template typescript
 
 ### Modules
-- Bootstrap & Icons
-- React i18n
+- Bootstrap & Icons (ok)
+- React i18n (ok)
 - React Hook Form & validation password
 - Axios
 - React Router
